@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `itssagarK/CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-06-11
+Last updated: 2026-06-12
 
 ## Scoring
 
@@ -34,7 +34,7 @@ Last updated: 2026-06-11
 | 18 | [@ArshiBansal](https://github.com/ArshiBansal) | 10 | 5 | 0 | 0 |
 | 19 | [@divyagsharma2006-blip](https://github.com/divyagsharma2006-blip) | 10 | 5 | 0 | 0 |
 | 20 | [@jagrati7305](https://github.com/jagrati7305) | 10 | 5 | 0 | 0 |
-| 21 | [@StarDustNova-57](https://github.com/StarDustNova-57) | 10 | 5 | 0 | 0 |
+| 21 | [@Swetha-Varma-K](https://github.com/Swetha-Varma-K) | 10 | 5 | 0 | 0 |
 | 22 | [@vasheekhan](https://github.com/vasheekhan) | 10 | 5 | 0 | 0 |
 | 23 | [@YASHcode-IIITV](https://github.com/YASHcode-IIITV) | 10 | 5 | 0 | 0 |
 | 24 | [@sofeel](https://github.com/sofeel) | 8 | 4 | 0 | 0 |
